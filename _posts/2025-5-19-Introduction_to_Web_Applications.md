@@ -8,7 +8,7 @@ categories: Hack_The_Box_Academy
 tags: [Bug_Bounty_Hunter, PenetrationTesting, Security, Hacker]
 description: بهالدرس رح نحكي عن تطبيقات الويب وكيف بتشتغل ورح نشوفها من وجهة نظر امن المعلومات، لهيك جهز قهوتك ويلا نبلش
 image:
-  path: /images/HTB/IntroToWebApplications/0.webp
+#  path: /images/HTB/IntroToWebApplications/0.webp
   alt: 
 ---
 

@@ -8,7 +8,7 @@ categories: Hack_The_Box_Academy
 tags: [SQL, PenetrationTesting, Security, Hacker]
 direction: rtl
 image:
-  path: /images/HTB/0.webp
+#  path: /images/HTB/0.webp
   alt: 
 description: قواعد البيانات جزء مهم من بنية تطبيقات الويب،  وبدرس اليوم رح نتعلم عن قواعد البيانات وكيف نستغل الحماية الضعيفة فيها.
 ---

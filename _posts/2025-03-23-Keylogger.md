@@ -8,7 +8,7 @@ categories: Python_for_Hackers
 tags: [Python, Keylogger, Security, PenetrationTesting, Hacker]
 direction: rtl
 image:
-  path: /images/HTB/e143-keylogger.gif
+#  path: /images/HTB/e143-keylogger.gif
   alt: image alternative tex
 description: ؟ وكيف بشتغل؟ وكيف فينا نساويه بأيدنا؟ Keylogger شو هو ال
 ---
