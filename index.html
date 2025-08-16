@@ -1,4 +1,13 @@
 ---
 layout: home
-# Index page
 ---
+
+<div class="post-list">
+  {% for post in site.posts %}
+    {% if post.layout == 'post' %}
+      {% include post-card.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+
